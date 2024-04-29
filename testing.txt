@@ -1,0 +1,74 @@
+Stubs -used in top-down integration testing
+Drivers-used in bottom-down integration testing
+
+Alpha testing-Conduted by internal testing team
+
+Beta testing- conducted by grp of external users or customers who are not part of dev team
+
+
+Jira---
+
+-JIRA is a widely used project management and issue tracking tool developed by atlassian
+-It is primarily used by software dev teams to plan,track,and manage their projects,tasks,and issues throughout 
+  the project
+-JIRA integrates seamlessly with a range of dev tools and services,including version control  systems(e.g..,Git),
+  continous integration servers(e.g., Jenkins)
+Overall,JIRA is a powerful and versatile tool that helps teams collaborate,organize their work and 
+deliver high quality software products more efficiently .Its flexibility ,scalability and extensive features 
+set make it popular choice for software dev teams of all sizes and industries.
+
+
+
+----------------------------------------------------------------------------------------------------
+Testing
+  ->Unit testing
+  ->Integration testing
+  ->System testing
+       @GUI Testing----Testing the graphical user interface
+          -*testing size,position,width,height of elements
+          -*error msgs are getting displayed
+          -*font color,size ,alignment,spelling
+          -*it is attractive or not
+       @Usability Testing-----Checks how easily the end users are able to
+                             understand and operate the application
+       @Funtional Testing
+            1. Object Properties Testing
+            2. Database Testing
+            3. Error Handling Testing
+            4. Calculations/Manipulations Testing
+            5. Links Testing
+            6. Cookies & Sessions Testing
+       @Non-Funtional Testing
+          1. Performance Testing
+                 • Load Testing
+                 • Stress Testing
+                 • Endurance Testing
+                 • Spike Testing
+                 • Volume Testing
+          2. Security Testing
+          3. Recovery Testing
+          4. Compatibility Testing
+          5. Configuration Testing
+          6. Installation Testing
+          7. Sanitation/Garbage Testing
+  ->User Acceptance testing
+       -Alpha-----Testing done by internal testing team
+       -Beta----------Testing done by grp of external users 
+
+
+-------------------------------------------------
+Software Testing Terminology
+1.Regression Testing
+   ▪ Unit Regression Testing
+    • Regional Regression Testing
+    • Full Regression
+2.Re-Testing
+3.Smoke Testing
+4.Sanity Testing
+5.Exploratory Testing
+6.Adhoc Testing
+7.Monkey Testing
+8.Positive Testing
+9.Negative Testing
+10.End-To-End Testing
+11.Globalization & Localization Testing
